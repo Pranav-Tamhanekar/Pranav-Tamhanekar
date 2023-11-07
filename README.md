@@ -1,13 +1,9 @@
 <div align="center">
 <h1>Hi 👋, I'm Pranav Tamhanekar</h1>
 <h3 >First Year Computer Science</h3>
-</div>
 
-- ⚡ Design By [Pushkraj](https://github.com/PushkraJ99)
-- Thank Me Later
+<h4>- ⚡ Design By [Pushkraj](https://github.com/PushkraJ99) - Thank Me Later - </h4>h4>
 
-
-<div align="center">
 <h3>Connect with Me:</h3>
 <a href="https://github.com/Pranav-Tamhanekar " target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
