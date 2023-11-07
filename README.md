@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Pranav Tamhanekar</h1>
 <h3 >First Year Computer Science</h3>
 
-- ⚡ Design By [Pushkraj](https://github.com/PushkraJ99) - Thank Me Later - 
+- ⚡ Design By [Pushkraj](https://github.com/PushkraJ99) - Thank Me Later 
 
 <h3>Connect with Me:</h3>
 <a href="https://github.com/Pranav-Tamhanekar " target="_blank">
